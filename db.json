@@ -1,0 +1,10 @@
+{
+    "products": [{
+        "name": "jeans",
+        "description": "Denim",
+        "gender": "male",
+        "category": "Jeans",
+        "price": 4000,
+        "id": 1
+    }]
+}
